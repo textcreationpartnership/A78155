@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first and second parts of Invisible John made visible: or A grand pimp of tyranny portrayed, in Barksteads arraignment at the barre, vvhere he stands impeached of high treason, and other gross misdemeanours, as the late tyrant's bum-bailiff, in his most arbltrary [sic], oppressive and tyrannical invasions of the rights and liberties of English-men, within the late cantonized county of Middlesex, the City of London, Tower, &amp;c. Whereunto is added, his barbarous cruelty to that eminent and reverend divine Dr. Iohn Hevvyt and others. Together with five queries to the Parliament, Council of State, and Army, occasioned by the preceding plea for justice; but not unworthy of their perusal.</title>
+            <title>Invisible John made visible.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78155</idno>
+            <idno type="STC">Wing B812</idno>
+            <idno type="STC">Thomason E985_11</idno>
+            <idno type="STC">ESTC R207848</idno>
+            <idno type="EEBO-CITATION">99866875</idno>
+            <idno type="PROQUEST">99866875</idno>
+            <idno type="VID">168603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first and second parts of Invisible John made visible: or A grand pimp of tyranny portrayed, in Barksteads arraignment at the barre, vvhere he stands impeached of high treason, and other gross misdemeanours, as the late tyrant's bum-bailiff, in his most arbltrary [sic], oppressive and tyrannical invasions of the rights and liberties of English-men, within the late cantonized county of Middlesex, the City of London, Tower, &amp;c. Whereunto is added, his barbarous cruelty to that eminent and reverend divine Dr. Iohn Hevvyt and others. Together with five queries to the Parliament, Council of State, and Army, occasioned by the preceding plea for justice; but not unworthy of their perusal.</title>
+                  <title>Invisible John made visible.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>in the year MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Sir John Barkstead.</note>
+                  <note>Signatures: D⁴.</note>
+                  <note>Also published the same year as: Invisible John made visible.</note>
+                  <note>Annotation on Thomason copy: "June 4".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts), and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hewit, John, 1614-1658 --  Early works to 1800.</term>
+               <term>Barkstead, John, d. 1662 --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168603:1" rendition="simple:additions"/>
+            <p>The Firſt and Second Parts OF <hi>Inviſible JOHN made Viſible:</hi> OR A Grand Pimp of Tyranny portrayed, IN <hi>BARKSTEADS</hi> ARRAIGNMENT AT THE BARRE, VVhere he ſtands impeached of High Treaſon, and other groſs miſdemeanours, as the late Tyrant's Bum-Bailiff, in his moſt Arbitrary, Oppreſſive and Tyrannical Invaſions of the Rights and Liberties of Engliſh men, within the late can<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onized County of <hi>Middleſex,</hi> the City of <hi>London,</hi> Tower, <hi>&amp;c.</hi>
+            </p>
+            <p>Whereunto is added, His Barbarous Cruelty to that Eminent and Reverend Divine D<hi rend="sup">r.</hi> IOHN HEWYT AND OTHERS. Together with FIVE QUERIES TO THE Parliament, Council of State, and Army, Occaſioned By the preceding Plea for Juſtice; but not unwor<g ref="char:EOLhyphen"/>thy of their peruſal.</p>
+            <p>Printed at <hi>London,</hi> in the Year MDCLIX. <add>June 4</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168603:2"/>
+            <pb n="1" facs="tcp:168603:2"/>
+            <head>
+               <hi>Inviſible</hi> IOHN <hi>made Viſible:</hi> OR A grand Pimp of Tyranny portrayed, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He old Roman <hi>Laelius,</hi> mentioned in <hi>Lucan's Pharſalio,</hi> was not more mercenariouſly devoted to ſerve the will and luſt of <hi>Caeſar,</hi> than late experience hath proved the plyableneſſe of ſome Engliſh Paraſites, to gratifie the greateſt of Tyrants in the baſeſt and beggerlyeſt Drudgeries. No Dog can be more ready to run on a Bul or Bear at a ſtake, than theſe Miniſters of miſchief, and Inſtruments of cruelty, have been fierce to fall on the moſt innocent, upon the leaſt beek or nod of the Tyrant: They have been ſo far (as would have become Engliſh men and Chriſtians) from refuſing obedience to ſuch Commands as carried not with them the Au<g ref="char:EOLhyphen"/>thority of Law and Juſtice, as that they have been ready (even to the rui<g ref="char:EOLhyphen"/>ning of mens perſons &amp; eſtates) to execute ſuch Orders as have been dia<g ref="char:EOLhyphen"/>metrically oppoſite to both: yea, BY VIRTVE ONLY of their very power and ſtations, have they ſo highly invaded the proprieties of thoſe whom their, or their Maſters malice hath been proſecuting, as if they had been within no bounds of Law, Reaſon or Religion, or that there was no account to be given either in this ot another world.</p>
+            <p>But to proceed to that perſon againſt whom the Barteries of Juſtice by this piece of Paper are more particularly (yet publickly and not per<g ref="char:EOLhyphen"/>ſonally) levell'd: I ſhall deſire thoſe who are now handing the Helm of publick Tranſactions, and promiſe ſo to ſteer the courſe of this Com<g ref="char:EOLhyphen"/>monwealth, that we may arrive at ſome ſuch hopeful Harbour, wherein w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may <hi>in futu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o,</hi> be ſheltered from thoſe bluſtering Storms which had almoſt ſhattered us in p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eces, to conſider how far the preſent Jaylor of the Tower, Colonel <hi>Iohn Barkſtead, alias Baxter,</hi> (whom the deceaſed Tyrant had ſo trayn'd up in Tyranny, that he was become ſufficiently tra<g ref="char:EOLhyphen"/>ctable to Ape him, and act his part in any Treaſon and Oppreſſion) hath inſolently run himſelf into guilt beyond all others who either may de<g ref="char:EOLhyphen"/>ſerve, or upon ſome pardonable grounds deſire Indempnity, and con<g ref="char:EOLhyphen"/>ſequently
+<pb n="2" facs="tcp:168603:3"/> rendered himſelf uncapable of being continued in ſo conſi<g ref="char:EOLhyphen"/>derable a truſt as the Tower, which he hath made ſo obnoxious to ig<g ref="char:EOLhyphen"/>miny and contempt, that perſons of honour and credit will be very ſhy of ſucceeding him in ſuch a ſcornful ſcar. Now n t knowing how con<g ref="char:EOLhyphen"/>fident he may yet continue under an inviſible<note n="*" place="margin">Thoſe who are acquain<g ref="char:EOLhyphen"/>ted with the Story of the Stone lent him by an Itali<g ref="char:EOLhyphen"/>an to make him inviſible, wil underſtand my meaning</note> con<g ref="char:EOLhyphen"/>ceit, I judged it incumbent upon me to cheque him at the ſtairs head, before he run down with the Tower, as once he did with a diſh of meat, when he was by a merry company cajowled in ſuch a frollick, as then rendred him as great a fool as ſince he hath made him<g ref="char:EOLhyphen"/>ſelf a knave: And therefore more ſoberly than poſſi<g ref="char:EOLhyphen"/>bly ſome paſſages may ſignifie me, I have ſent forth this enſuing Charge againſt him: the truth of which, and much more, will be ſe<g ref="char:EOLhyphen"/>conded by many, if opportunity be but offered thereunto.</p>
+            <p>Firſt, He the ſaid <hi>Barkſtead,</hi> Lieutenant of the Tower, contrary to the Laws of this Nation, and the truſt repoſed in him, for abetting the boundleſs ambition of a Tyrant, and the oppreſſing and perſecuting of all who would not ſubject themſelves to ſlavery,<note place="margin">Major Ge<g ref="char:EOLhyphen"/>neral <hi>Over<g ref="char:EOLhyphen"/>tons</hi> Caſé, with divers others.</note> hath been a conſtant &amp; punctual Obſerver of all commands, Orders and Directions pub<g ref="char:EOLhyphen"/>lick and private, which came from the late Tyrant, or his grand Pimp <hi>Thu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loc;</hi> and in impriſoning of mens Perſons, baniſhing them beyond the Seas, torturing them by ſtrict reſtraints in the Tower, keeping them up cloſe from the comfort of Wives, Relations or Friends,<note place="margin">As in <hi>Armigers</hi> Caſe, whoſe mouth they ſay he hath stopped by Compoſition.</note> denying them the benefit of Law by <hi>Ha<g ref="char:EOLhyphen"/>beas Corpus,</hi> when it ſtood not with the Tyrants li<g ref="char:EOLhyphen"/>king, breaking open of Houſes, illegal ſearchings, Ex<g ref="char:EOLhyphen"/>actions and Impoſitions; hath been the moſt indefati<g ref="char:EOLhyphen"/>gable Drudge in this Nation to the late Tyrant: and for the more ef<g ref="char:EOLhyphen"/>fectual managing of theſe his Maſters affairs, be conſtantly employed ſome Souldiers and Officers, as Emiſſaries and Trappanners abroad, who under the notion of diſcovering Delinquents, and diſſatisfied perſons, have committed moſt notorious Villanies, in forcing ſeveral peaceable perſons not within his Cognizance, to come and give the ſaid <hi>Barkſtead</hi> bond, meerly for the Fee ſake, and in taking money from others not to diſcover their delinquency: divers of whom, though they could have put in ſufficient Pleas for themſelvs, ſubmitted to any thing, rather than to come within the Tower, which this <hi>Barkſtead</hi> had made ſuch a Bug-Bear, that it frighted many from it: yea, his ve<g ref="char:EOLhyphen"/>ry Clerk forſooth had his Agents alſo, to make ſuch diſcoveries as might augment his gain.</p>
+            <p n="2">2. He the ſaid <hi>Barkſtead,</hi> contrary to Law, and the Truſt reproſed in him, hath, during the time of his Government in the Tower, made ſuch private Laws and Orders as have carried in them no other weight,<note place="margin">A Lady was forced to pay <hi>20 s.</hi> for her ſelf and Servants; and yet 'tis ſaid, She ſtaid not above the time allowed by his order.</note> &amp;
+<pb n="3" facs="tcp:168603:3"/> been of no other uſe and tendency than to enſnare and trapan thoſe who came to viſit perſecuted and oppreſſed Priſoners into forfeitures of monies;<note place="margin">I have heard, and believe it is true, that <hi>15 s.</hi> was forced from two Kinſwomen and a Son of Major General <hi>Overtons,</hi> ſor but accidentally meeting of him as he was walking within the Tower, they having been to ſee the Armory.</note> which hath been from time to time exacted from them by very coarſe and inhumane uſage: and upon refuſal, many, both men and women, have been caſt into Guards for divers hours; yea, ſome women who have had ſucking children, could not obtain their Liberty, divers having been continued nights and dayes during his pleaſure: with which monies ſo ex<g ref="char:EOLhyphen"/>torted, the Officers of the Guards have oft made themſelves drunk, and the ſaid <hi>Barkſtead</hi> hath ſeen it, known it, &amp; paſt it by.</p>
+            <p n="3">3. The ſaid Lieutenant of the Tower, without any publick direction, or legal Authority, as Lieutenant of the Tower, hath ſeveral times, by his own Arbitrary power, upon occaſion of diſcontent with ſome Priſoners, impoſed a cloſe reſtraint upon all, till many have been ready to periſh for want of air and exerciſe; and being ambitious of homage, hath prag<g ref="char:EOLhyphen"/>matically continued this cloſe confinement upon them, till they have petitioned him for liberty to walk: and thoſe who could not in Conſcience thus humour him with Cringes and Cour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhip,<note place="margin">Major General <hi>Overton,</hi> as himſelf and others have aſſerted, was kept cloſe in his Chamber ſix Moneths together; that re<g ref="char:EOLhyphen"/>ſtraint upon him and the reſt being occaſioned by divers P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſoners dining together, and yet Major General <hi>Overton</hi> was not out of his Chamber that day: yea, when the ſaid Lieutenant was informed that this worthy Gentleman was almoſt deſtroyed for want of air and exerciſe, yet for ſix months together he poſitively refuſed him liberty to walk.</note> he would not allow them the benefit of the air.</p>
+            <p n="4">4. The ſaid Lieutenant of the Tower hath raiſed himſelf a vaſt Eſtate by exacting unconſcionable Fees from Priſoners; yea, from ſome who had not bread to put in their mouths. Theſe Fees he conſtantly deman<g ref="char:EOLhyphen"/>ded at their coming in, and would allow them no liberty nor accommo<g ref="char:EOLhyphen"/>dation till they either paid him, or gave ſecurity for it; having very un<g ref="char:EOLhyphen"/>civilly treated and threatned ſome for not coming up to his Demands. Now for theſe Fees there is no other colour of Law or Cuſtome, than that formerly there was a voluntary gratuity given by Priſoners to the Lieutenant of the Tower for his pains in receiving and paying to them the publick allowance, which in <hi>Barkſteads</hi> time Priſoners have not en<g ref="char:EOLhyphen"/>joyed; yet notwithſtanding, I believe it may be made appear that one Gentleman after an Order came for his releaſe, was continued divers moneths, either becauſe he could not, or would not, pay a Fee.</p>
+            <p n="5">5. That the ſaid Lieutenant of the Tower hath ingroſſed to himſelf (not appertaining to him by vertue of his place ſeveral advantages in and about the Tower, by which he raiſed a vaſt ſum of money yearly, as upon examination will appear.</p>
+            <p n="6">
+               <pb n="4" facs="tcp:168603:4"/>6. That the ſaid Lieutenant of the Tower, for his own, and Relations Advantage and Accomodation, hath expended (under the notion of neceſſary repairs) much of the publick money in fitting and making up Lodgings for Priſoners, from whom there hath been extorted moſt un<g ref="char:EOLhyphen"/>reaſonable rates for the ſaid Lodgings: As for inſtance: The ſaid Lieu<g ref="char:EOLhyphen"/>tenant hath himſelf received to his own private uſe from Mr. <hi>Aſhburnham</hi> 40 <hi>s.</hi> a week;<note place="margin">I have heard that Major Gene<g ref="char:EOLhyphen"/>ral <hi>Overton,</hi> lodging at one Mr. <hi>Cuttingmans</hi> the Lieutenant of the Towers brother, and refuſing any longer to pay as he had done <hi>30 s.</hi> a week for his lodging; the ſaid Lieutenant of the Tower threatned in the hearing of a Gentleman of worth, to put the Major General in the Dungeon.</note> from Sir <hi>Henry Littleton,</hi> 40 <hi>s.</hi> a week, and from Sir <hi>Tho. P yton,</hi> forty ſhillings a week, or thereabouts; which they in prudence complyed withall, to the end they might enjoy that Freedom and Liberty which others could not have, and they paid dear for; beſides great weekly ſums which his Kindred received for thoſe Lodgings which ought to be free for Priſoners: Inſomuch that the Tower, formerly a noble and unexpenſive Priſon, is by him the ſaid <hi>Barkſtead</hi>'s baſe pra<g ref="char:EOLhyphen"/>ctiſes and connivances rendred a rooking Pinfold; many being raiſed in that place by the ruines of poor Priſoners.</p>
+            <p n="7">7. The Caſe of Mr. <hi>John Partman</hi> brought before the late Aſſembly, who voted his Impriſonment illegal and unjuſt, deſerves Conſideration, and is of it ſelf ſingly ſufficient to turn ſuch a Traytor as this baſe Truck<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er out of the Tower; who in this caſe firſt plaid the Knave, at laſt the Fool.</p>
+            <p n="8">8. That the ſaid Lieutenant of the Tower hath demeaned himſelf ſo inſolently towards Priſoners, &amp; their Friends who came to viſit them,<note place="margin">Eſpecially to that worthy Perſon Major General <hi>Overton,</hi> his Wife, Children and Friends, as I have heard, and I believe is publickly known.</note> and rendred himſelf ſo ridiculous in both publick and more pri<g ref="char:EOLhyphen"/>vate groſs practiſes, (which I ſhall here de<g ref="char:EOLhyphen"/>cline inſetting) that he hath cauſed much re<g ref="char:EOLhyphen"/>proach to fall upon Religion, and by that means is become ſo ſcandalous all the Nation over, that he ſtinks in the Noſtrils of both Good and Bad.</p>
+            <p n="9">9. And laſtly, That it may appear how meer a Time-ſerving Truck<g ref="char:EOLhyphen"/>ler he the ſaid <hi>Barkſtead</hi> is, as plainly and undeniably he was; and how he now cloſes in with a Commonwealth from no other principles than the preſervation of his intereſt, and to ſhelter himſelf under the Armies ſhield from the Laſhes of Law, which otherwiſe might light heavily up<g ref="char:EOLhyphen"/>on him; It may be made manifeſt that he was improving all the intereſt he had to ſecure the Tower for the late Protector, <hi>alias</hi> Mr. <hi>Richard Crom<g ref="char:EOLhyphen"/>wel,</hi> in oppoſition to the Army, till he was frighted forth of that aſſay by a Colonel who told him he was undone if he complyed not with the Ar<g ref="char:EOLhyphen"/>my, as that Colonel hath confeſſed in the audience of forty Perſons.</p>
+            <pb n="5" facs="tcp:168603:4"/>
+            <p>Now if this Charge bear ſuch a proportion with truth, as that the ſaid Lieutenant of the Tower is guilty of the Subſtance of what is in this Paper alleaged againſt him: Then</p>
+            <p n="1">1. DOth it ſtand with the honour and reputation of the Parliament and Army, and the ſafety and ſecurity of the Tower, to continue him in that command? Or (according to what the Parliament hath lately voted, and the Army have publickly declared to pull the wicked out of their places) to receive him into any other Office or Place of Truſt and Power within the Commonwealth? Or can it be rationally un<g ref="char:EOLhyphen"/>derſtood that the Army (under an owning of their late Apoſtacy and real repentance for the ſame) do or can propoſe Indemnity for all, with out any Diſtinction either in relation to perſons or things?</p>
+            <p n="2">2. If he, and ſuch as he be continued, and thoſe who for Conſcience ſake either ſaperated from the late Apoſtacy, or were laid aſide by the grand Apoſtate, are left out; what then doth the late great Noyſe and Change naturally and intentionally ſignifie, farther than a tranſlation of the Apoſtatical Cauſe and Deſign (under the Cloak of the Good Old Cauſe) out of <hi>Oliver Cromwels</hi> Family into ſome other? Or out of a ſingle Perſon into ſeveral Perſons, where Tyranny ſtill remains the ſame, as ſtinking water that may be poured out of one into ſeveral veſſels, but remains the ſame water, though the veſſels were never ſo ſweet?</p>
+            <p n="3">3 Should the Army return no nearer the Good Old Cauſe in their re<g ref="char:EOLhyphen"/>pentance for their declenſion from it, than to ſuch an Oligarchy wherein they may ſhrowd and ſhelter a private intereſt in oppoſition to the pub<g ref="char:EOLhyphen"/>lick; will they not plainly unveyl the groſſeſt Hypocriſie in the world, in profeſſing themſelves ſenſible of an Apoſtacy, and expreſſing repentance for it, when at that time they reſolved to remain in it? Will they not thereby plainly prove themſelves Apoſtates indeed, not ſuch as were led aſide by weakneſſes, but ſuch as wilfully and wickedly turned out of the way? Oh how will they then ſtink as corrupt Carrion in the Noſtrils of all Nations?</p>
+            <p n="4">4. If the Parliament and Council of State walk by the Armies Rule in this reſpect, and they go hand in hand together, and perpetuate them<g ref="char:EOLhyphen"/>ſelves (as I hope neither Parliament nor Army intend) will they not ther<g ref="char:EOLhyphen"/>by in practiſe juſtifie that wickedneſs in the Apoſtacy, which moſt of them condemned in words? And will they not alſo according to the Tenour of this Text, <hi>Thou art made whole: go thy way, ſin no more, leſt a worſe thing befall thee</hi> be judicially engaged into that which will rather perpe<g ref="char:EOLhyphen"/>tuate their infamy, than their power; ſo that the old reproaches caſt up<g ref="char:EOLhyphen"/>on them, will revive with a new remembrance, and they will really juſti<g ref="char:EOLhyphen"/>fie thoſe who ſeem to condemn themſelves for interrupting them, and as really condemn <hi>themſelves</hi> in that wherein they now ſeem juſtified? Will they not by this means inſtead of healing our Breaches, and reſto<g ref="char:EOLhyphen"/>ring of pathes to dwell in, create further and greater diſ-unions, and ſo
+<pb n="6" facs="tcp:168603:5"/> give the common Enemy that opportunity, which will undoubtedly and undeniably eſtabliſh his Throne in the midſt of us?</p>
+            <p n="5">5. But if the Parliament and Council of State have more real thoughts for Reformation, (as I hope they have) how comes it then to paſſe that they receive thoſe into places and preferment under them, who were actually engaged in the Apoſtacy, and reJect, at leaſt neglect thoſe who have ſuffered for Conſcience ſake, they being equally able with thoſe they entertain, and far honeſter? Doth not this argue great ingratitude to thoſe who have denyed themſelves, to vindicate their power? And is it not very unbecoming the profeſſions they make, ra<g ref="char:EOLhyphen"/>ther to countenance thoſe who court them for places, than ſuch as in conſcience cannot ſeek themſelves? If Favour or Friendſhip muſt car<g ref="char:EOLhyphen"/>ry it from deſert, then doth that ſpirit ſway the Scepter which Rules in Righteouſneſs?</p>
+            <p>I ſhall not in this place, nor at this preſent, make mention of the Death of Mr. <hi>Syndercom,</hi> and what he ſuffered in the Tower by him; the Story is too well known, and will not ſuddenly be forgotten. I ſhall only urge that, to add to his former cruelties, the ſaid Lieutenant of the Tower did deal moſt barbarouſly and unmercifully with that famous, and Reverend Divine Doctor <hi>John Hewyt,</hi> who being committed to the Tower upon the ſuggeſtions, and the Jealouſies of the late decea<g ref="char:EOLhyphen"/>ſed Tyrant, he uſed all the wayes that poſſibly he could contrive to adde unto his Grievances, and would not grant admittance to many Godly and Reverend Divines who took the paines to come and viſit him in the Day of his Diſtreſſe; nay he would not ſuffer the Honoura<g ref="char:EOLhyphen"/>ble Lady his moſt dear Wife to have acceſs unto him, but only when he pleaſed: which amongſt many other almoſt inexpreſſible ſufferings; was the occaſion of a great and dangerous ſickneſſe, which did afflict him to the jeopardy of his life: whereupon petitioning to the Protector then living, ſhe could not procure him the liberty of a cleer air, without putting in great ſecurity, and a guard upon his perſon, who meant nei<g ref="char:EOLhyphen"/>ther to fight nor fly away. It were too long in this place to inſert the Injuries with which he was tormented a little before his Execution, when he was preparing himſelf for a better world, which were ſo into<g ref="char:EOLhyphen"/>lerable, that a <hi>Turk</hi> would not offer the like ſo the moſt deſpicable of Chriſtians. For your further ſatisfaction in this and the particulars thereof, I ſhall referre you to the Petition of his Honourable Conſort which ſhe preſented to the late diſſolved Parliament, at the firſt begin<g ref="char:EOLhyphen"/>ning of their Seſſions</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
